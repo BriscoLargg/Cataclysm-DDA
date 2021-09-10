@@ -67,6 +67,7 @@ Use the `Home` key to return to the top.
       - [`achievement`](#achievement)
       - [`conduct`](#conduct)
     - [Skills](#skills)
+    - [Speed Description](#speed-description)
     - [Traits/Mutations](#traitsmutations)
     - [Traps](#traps)
     - [Vehicle Groups](#vehicle-groups)
